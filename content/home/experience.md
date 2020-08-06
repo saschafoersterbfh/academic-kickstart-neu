@@ -55,8 +55,8 @@ date_format = "2.01.2006"
   company = "Theaterhistorische Sammlungen der Freien Universität Berlin"
   company_url = "https://www.geisteswissenschaften.fu-berlin.de/we07"
   location = "Berlin"
-  date_start = "2011-03-31"
-  date_end = "2016-04-01"
+  date_start = "2006-09-01"
+  date_end = "2011-04-30"
   description = """
   Aufgabenbereiche (Auswahl):
   

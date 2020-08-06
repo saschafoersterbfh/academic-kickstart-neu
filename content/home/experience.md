@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2 Jan 2006"
+date_format = "2.01.2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,21 +25,42 @@ date_format = "2 Jan 2006"
   date_start = "2016-03-01"
   date_end = "2020-12-31"
   description = """
-  Responsibilities include:
+  Aufgabenbereiche (Auswahl):
   
-  * Koordination Bachelor-Basismodul Mediengeschichte (inkl. Prüfung)
+  * Koordination des Bachelor-Basismoduls Mediengeschichte (inkl. Prüfung)
   * Lehre im Bachelor Medienkulturwissenschaft
+  * Administration von _[sic!] Summer Institute Cologne_
   * Vertrauensperson
   * Master-Beratung
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "wissenschaftlicher Mitarbeiter"
+  company = "Theaterwissenschaftliche Sammlung der Universität zu Köln"
+  company_url = "https://tws.phil-fak.uni-koeln.de"
+  location = "Köln"
+  date_start = "2012-03-15"
+  date_end = "2016-02-27"
+  description = """
+  Aufgabenbereiche (Auswahl):
+  
+  * Kuration und Organisation von Ausstellungsprojekten
+  * Lehre im Bachelor Medienkulturwissenschaft
+  * Koordination von _[sic!] Summer Institute Cologne_
+  * Redaktion der Schriftenreihe _TheaterErkundungen_
+  """
+  
+[[experience]]
+  title = "studentische Hilfskraft"
+  company = "Theaterhistorische Sammlungen der Freien Universität Berlin"
+  company_url = "https://www.geisteswissenschaften.fu-berlin.de/we07"
+  location = "Berlin"
+  date_start = "2011-03-31"
+  date_end = "2016-04-01"
+  description = """
+  Aufgabenbereiche (Auswahl):
+  
+  * ???
+  """
 
 +++

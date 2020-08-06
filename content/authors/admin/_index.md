@@ -21,9 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Theater- und Medienkultur der Weimarer Republik
+- Theaterarchitektur und Brutalismus
+- Fundus und Repertoire
+- Theaterwerkstätten
+- Zeitgeist als theaterhistoriografisches Konzept
+- Methoden der Theaterhistoriografie
+- Kuratorische Kontexte von Theaterfestivals
 
 education:
   courses:

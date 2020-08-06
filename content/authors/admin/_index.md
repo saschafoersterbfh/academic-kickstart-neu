@@ -29,7 +29,7 @@ Interessen:
 - Methoden der Theaterhistoriografie
 - Kuratorische Kontexte von Theaterfestivals
 
-Ausbildung:
+Courses:
   courses:
   - course: Dr. phil. in Theater- und Medienwissenschaft
     institution: Universität zu Köln

@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "06 2006"
+date_format = "2006-06"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "06 2006"
   company = "Institut für Medienkultur und Theater, Universität zu Köln"
   company_url = "https://mekuwi.phil-fak.uni-koeln.de"
   location = "Köln"
-  date_start = "2016-03"
+  date_start = "2016-03-01"
   date_end = ""
   description = """
   Responsibilities include:

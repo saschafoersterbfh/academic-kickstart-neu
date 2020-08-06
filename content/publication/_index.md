@@ -13,8 +13,4 @@ header:
   caption: ""
   image: ""
   
-title: Thomas Münzer
-date: 2014
-publication_types: 5
-  
 ---

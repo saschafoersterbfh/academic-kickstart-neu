@@ -12,4 +12,7 @@ view: 4
 header:
   caption: ""
   image: ""
+  
+content/publication/<title: Thomas Münzer>/index.md
+  
 ---

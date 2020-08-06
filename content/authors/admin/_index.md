@@ -33,7 +33,7 @@ Education:
   courses:
   - course: Dr. phil. in Theater- und Medienwissenschaft
     institution: Universität zu Köln
-    year: 2020
+    year: vrstl. 2020
   - course: Master of Arts in Theaterwissenschaft
     institution: Freie Universität Berlin
     year: 2011

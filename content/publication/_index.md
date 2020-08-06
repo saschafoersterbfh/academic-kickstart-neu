@@ -13,6 +13,8 @@ header:
   caption: ""
   image: ""
   
-content/publication/<title: Thomas Münzer>/index.md
+title: Thomas Münzer
+date: 2014
+publication_types: 5
   
 ---

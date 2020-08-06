@@ -33,7 +33,7 @@ Ausbildung:
   courses:
   - course: Dr. phil. in Theater- und Medienwissenschaft
     institution: Universität zu Köln
-    year: vrstl. 2020
+    year: 2020
   - course: Master of Arts in Theaterwissenschaft
     institution: Freie Universität Berlin
     year: 2011
@@ -49,8 +49,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
+- icon: academia
+  icon_pack: ai
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai

@@ -51,7 +51,7 @@ social:
   link: "mailto:sascha.foerster@uni-koeln.de"
 - icon: academia
   icon_pack: ai
-  link: https://twitter.com/GeorgeCushen
+  link: https://uni-koeln.academia.edu/SaschaFoerster
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

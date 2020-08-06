@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+Interessen:
 - Theater- und Medienkultur der Weimarer Republik
 - Theaterarchitektur und Brutalismus
 - Fundus und Repertoire
@@ -29,16 +29,16 @@ interests:
 - Methoden der Theaterhistoriografie
 - Kuratorische Kontexte von Theaterfestivals
 
-education:
+Ausbildung:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Dr. phil. in Theater- und Medienwissenschaft
+    institution: Universität zu Köln
+    year: vrstl. 2020
+  - course: Master of Arts in Theaterwissenschaft
+    institution: Freie Universität Berlin
+    year: 2011
+  - course: Bachelor of Arts in Theaterwissenschaft und Publizistik und Kommunikationswissenschaft
+    institution: Freie Universität Berlin
     year: 2008
 
 # Social/Academic Networking

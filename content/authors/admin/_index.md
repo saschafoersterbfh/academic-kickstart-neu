@@ -18,16 +18,13 @@ organizations:
   url: "https://mekuwi.phil-fak.uni-koeln.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meine theaterhistorische Forschung befasst sich im Besonderen mit der Weimarer Republik und dem National Theatre London.
 
-Interessen:
+Interests:
 - Theater- und Medienkultur der Weimarer Republik
 - Theaterarchitektur und Brutalismus
 - Fundus und Repertoire
 - Theaterwerkstätten
-- Zeitgeist als theaterhistoriografisches Konzept
-- Methoden der Theaterhistoriografie
-- Kuratorische Kontexte von Theaterfestivals
 
 Education:
   courses:
